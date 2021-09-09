@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to my GitHub Profile! 👋</h1>
 
 <h2 align="center">👨About Me</h2>
-<h3 align="center">I'm a systems administrator, techie, and car enthusiast. In my downtime you'll find me working on Raspberry Pi projects, playing PC games, or working on a muscle car.</h3>
+<h3 align="center">I'm a systems administrator, techie, and car enthusiast. I'm an advocate for FOSS and DevOps principles. In my downtime you'll find me working on Raspberry Pi projects, playing PC games, or working on a muscle car.</h3>
 
 <h2 align="center">📚What am I learning?</h2>
 <h3 align="center">I'm currently learning 🐍Python</h3>
