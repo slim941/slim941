@@ -1,5 +1,7 @@
-# Welcome to my GitHub Profile! 👋
+<h1 align="center"># Welcome to my GitHub Profile! 👋</h1>
 
+## About Me
+###I'm currently learning Python, Ansible, Source Controls, DevOps
 <!--
 **slim941/slim941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
