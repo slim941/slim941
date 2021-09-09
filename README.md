@@ -2,6 +2,12 @@
 
 <h2 align="center">💬About Me</h2>
 <h3 align="center">I'm currently learning Python, Ansible, Source Control, DevOps</h3>
+
+<h2 align="center">🔭Current Projects</h2>
+I’m currently working on various Raspberry Pi projects
+
+
+
 <!--
 **slim941/slim941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
