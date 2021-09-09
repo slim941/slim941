@@ -1,6 +1,6 @@
 <h1 align="center">👋 Welcome to my GitHub Profile! 👋</h1>
 
-<h2 align="center">💬What am I learning?</h2>
+<h2 align="center">📚What am I learning?</h2>
 <h3 align="center">I'm currently learning Python, Ansible, Source Control, DevOps</h3>
 
 <h2 align="center">🔭Current Projects</h2>
