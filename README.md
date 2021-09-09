@@ -4,7 +4,7 @@
 <h3 align="center">I'm currently learning Python, Ansible, Source Control, DevOps</h3>
 
 <h2 align="center">🔭Current Projects</h2>
-I’m currently working on various Raspberry Pi projects
+<h3 align="center">I’m currently working on various Raspberry Pi projects</h3>
 
 
 
