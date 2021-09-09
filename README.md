@@ -1,4 +1,4 @@
-<h1 align="center">👋 **Welcome to my GitHub Profile!** 👋</h1>
+<h1 align="center">👋 Welcome to my GitHub Profile! 👋</h1>
 
 <h2 align="center">💬About Me</h2>
 <h3 align="center">I'm currently learning Python, Ansible, Source Control, DevOps</h3>
